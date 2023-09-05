@@ -8,6 +8,7 @@ Proyecto que sirve de base para aplicaciones futuras. Estas son algunas caracter
 - [Analizador de Código](https://github.com/nunomaduro/larastan).
 - [Visualización de logs](https://github.com/opcodesio/log-viewer).
 - [Telescope](https://github.com/laravel/telescope).
+- [Documentacion con swagger](https://github.com/DarkaOnline/L5-Swagger).
 
 
 ## Learning Laravel
