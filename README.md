@@ -10,6 +10,7 @@ Proyecto que sirve de base para aplicaciones futuras. Estas son algunas caracter
 - [Telescope](https://github.com/laravel/telescope).
 - [Documentacion con swagger](https://github.com/DarkaOnline/L5-Swagger).
 - [Modularización de código](https://docs.laravelmodules.com/v10/introduction).
+- [Laravel Data](https://github.com/spatie/laravel-data).
 
 ## Learning Laravel
 
