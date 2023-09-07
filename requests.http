@@ -1,0 +1,13 @@
+@hostname=localhost
+@port=80
+@api_version=api/v1
+@token=
+
+### getToken
+POST http://{{hostname}}:{{port}}/{{api_version}}/iflow/token HTTP/1.1
+Content-Type: application/json
+
+{
+    "username": "newsan",
+    "password": "iflow2468"
+}
